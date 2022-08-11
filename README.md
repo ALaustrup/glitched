@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @psybrdev
-- 👀 I’m interested in Virtual Reality and Blockchain technologies (inc. Crypto assets)
-- 🌱 I’m currently learning VR development and Polygon DApp development.
-- 💞️ I’m looking to collaborate on VR Game projects and music projects as well as Blockchain based technologies.
-- 📫 You can find more about what I do currently @ HTTPS://metavoid.io
+- 👋 Hi, I’m @glitchninja
+- 👀 I’m interested in Virtual Reality and Game Development.
+- 🌱 I’m currently learning How to do anything at all.
+- 💞️ I’m looking to collaborate on VR Game projects and music projects and web3.
+- 📫 You can find more about what I do currently @ HTTPS://trisix.wixsite.com/portal
 
 <!---
-psybrmedia/psybrmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
